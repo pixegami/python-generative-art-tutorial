@@ -1,2 +1,2 @@
-# python-generative-art-tutorial
-Tutorial repository for Python generated art.
+# Python Generative Art Tutorial
+
