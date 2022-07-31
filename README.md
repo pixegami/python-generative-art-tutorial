@@ -44,3 +44,5 @@ It should generate an image like this:
 <a href = "https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_18.png">
 <img src="https://github.com/srajan-kiyotaka/NFT-Generative-Art-using-Python/blob/master/Art%20Gallery/sample/sample_image_18.png" alt="sample art 6" width="256px" height="256px"/>
 </a>
+
+### Contributed by [Srajan Chourasia](https://github.com/srajan-kiyotaka)
